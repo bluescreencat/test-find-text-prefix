@@ -1,2 +1,4 @@
-# test-find-text-prefix
-For test
+# How to run
+
+1. `npm install`
+2. `node index.js`
